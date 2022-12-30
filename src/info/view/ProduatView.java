@@ -11,7 +11,7 @@ public class ProduatView {
 			System.out.println("제품명: "+pvo.getName()+"\t");
 			System.out.println("가격: "+pvo.getPrice()+"\t");
 			System.out.println("재고: "+pvo.getStock()+"\t");
-			
+			System.out.println("----------------");
 		}
 	}
 }
